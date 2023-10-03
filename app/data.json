@@ -1,0 +1,83 @@
+[
+  {
+    "dDay": "마감임박 D-2",
+    "name": "백엔드 스쿨 : Java",
+    "imgSrc": "backend_java.png",
+    "description": "6달 간의 여정, 백엔드 개발자로<br /> 성장하는 지름길",
+    "recruitment": "23.09.01(금) ~ 23.09.30(토) 까지"
+  },
+  {
+    "dDay": "마감임박 D-2",
+    "name": "프론트엔드 스쿨",
+    "imgSrc": "frontend.png",
+    "description": "기초가 튼튼한 프론트엔드 개발자 양성 교육",
+    "recruitment": "23.09.01(금) ~ 23.09.30(토) 까지"
+  },
+  {
+    "dDay": "사전알림신청",
+    "name": "블록체인 스쿨",
+    "imgSrc": "blockchain.png",
+    "description": "미래를 바꿀 대체불가한 개발자의 시작",
+    "recruitment": "23.09.01(금) ~ 23.09.30(토) 까지"
+  },
+  {
+    "dDay": "모집마감",
+    "name": "데이터 분석 스쿨",
+    "imgSrc": "data.png",
+    "description": "기본기가 탄탄한 데이터 분석가로의 도약"
+  },
+  {
+    "dDay": "마감임박 D-2",
+    "name": "백엔드 스쿨 : Java",
+    "imgSrc": "backend_java.png",
+    "description": "6달 간의 여정, 백엔드 개발자로<br /> 성장하는 지름길",
+    "recruitment": "23.09.01(금) ~ 23.09.30(토) 까지"
+  },
+  {
+    "dDay": "마감임박 D-2",
+    "name": "프론트엔드 스쿨",
+    "imgSrc": "frontend.png",
+    "description": "기초가 튼튼한 프론트엔드 개발자 양성 교육",
+    "recruitment": "23.09.01(금) ~ 23.09.30(토) 까지"
+  },
+  {
+    "dDay": "사전알림신청",
+    "name": "블록체인 스쿨",
+    "imgSrc": "blockchain.png",
+    "description": "미래를 바꿀 대체불가한 개발자의 시작",
+    "recruitment": "23.09.01(금) ~ 23.09.30(토) 까지"
+  },
+  {
+    "dDay": "모집마감",
+    "name": "데이터 분석 스쿨",
+    "imgSrc": "data.png",
+    "description": "기본기가 탄탄한 데이터 분석가로의 도약"
+  },
+  {
+    "dDay": "마감임박 D-2",
+    "name": "백엔드 스쿨 : Java",
+    "imgSrc": "backend_java.png",
+    "description": "6달 간의 여정, 백엔드 개발자로 <br/> 성장하는 지름길",
+    "recruitment": "23.09.01(금) ~ 23.09.30(토) 까지"
+  },
+  {
+    "dDay": "마감임박 D-2",
+    "name": "프론트엔드 스쿨",
+    "imgSrc": "frontend.png",
+    "description": "기초가 튼튼한 프론트엔드 개발자 양성 교육",
+    "recruitment": "23.09.01(금) ~ 23.09.30(토) 까지"
+  },
+  {
+    "dDay": "사전알림신청",
+    "name": "블록체인 스쿨",
+    "imgSrc": "blockchain.png",
+    "description": "미래를 바꿀 대체불가한 개발자의 시작",
+    "recruitment": "23.09.01(금) ~ 23.09.30(토) 까지"
+  },
+  {
+    "dDay": "모집마감",
+    "name": "데이터 분석 스쿨",
+    "imgSrc": "data.png",
+    "description": "기본기가 탄탄한 데이터 분석가로의 도약"
+  }
+]

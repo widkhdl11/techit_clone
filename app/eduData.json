@@ -1,0 +1,17 @@
+[
+  {
+    "name": "테킷 KDT 스쿨",
+    "imgSrc": "edu_type_01.png",
+    "description": "100% 전액지원 받고 테킷 KDT스쿨에서 커리어 목표를 달성해보세요."
+  },
+  {
+    "name": "온보딩 트랙",
+    "imgSrc": "edu_type_02.png",
+    "description": "교육지 지원받고 기본기도 쌓고! 커리어 완성의 첫 시작을 함께하세요."
+  },
+  {
+    "name": "스타트업 스테이션",
+    "imgSrc": "edu_type_03.png",
+    "description": "IT스타트업 창업 시작을 위한 창업 온보딩 교육 함께 도전해요."
+  }
+]
